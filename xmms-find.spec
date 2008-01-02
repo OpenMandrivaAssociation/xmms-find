@@ -11,6 +11,7 @@ Release:	%{release}
 Source0:	http://heanet.dl.sourceforge.net/sourceforge/xmmsfind/%{oname}-%{version}.tar.bz2
 URL:		http://xmmsfind.sourceforge.net/
 Group:		Sound
+BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot 
 License:	GPL
 BuildRequires:	xmms-devel gtk+1.2-devel
 
