@@ -18,7 +18,7 @@ BuildRequires:	xmms-devel gtk+1.2-devel
 %description
 XmmsFind is a small plugin for XMMS that enables you to quickly search for a
 file in the current playlist, and at your command, play it.
-The plugin is very similar to the built-in "jump to file" util, but since it is 
+The plugin is very similar to the built-in "jump to file" util, but since it is
 launched by an external program, it can be invoked by a windowmanager shortcut
 (without having xmms in focus).
 
