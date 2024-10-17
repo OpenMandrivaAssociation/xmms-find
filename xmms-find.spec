@@ -9,7 +9,7 @@ Summary:	XmmsFind plugin for xmms
 Version:	%{version} 
 Release:	%{release} 
 Source0:	http://heanet.dl.sourceforge.net/sourceforge/xmmsfind/%{oname}-%{version}.tar.bz2
-URL:		http://xmmsfind.sourceforge.net/
+URL:		https://xmmsfind.sourceforge.net/
 Group:		Sound
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot 
 License:	GPL
