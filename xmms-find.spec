@@ -13,6 +13,7 @@ URL:		https://xmmsfind.sourceforge.net/
 Group:		Sound
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot 
 License:	GPL
+BuildRequires:	make
 BuildRequires:	xmms-devel gtk+1.2-devel
 
 %description
